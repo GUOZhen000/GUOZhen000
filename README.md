@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently pursuing a PhD at the Hong Kong Polytechnic University (PolyU)
+- 🔭 I’m currently working on T2I model
+- 📫 How to reach me: zhen-gz.guo@connect.polyu.hk
+
 <!--
 **GUOZhen000/GUOZhen000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
