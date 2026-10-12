@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 - 🌱 PhD student @ PolyU VCLab | https://github.com/PolyU-VCLab
-- 🔭 Research: Text-to-Image (T2I) generation models
+- 🔭 Research: Model Distillation
 - 📫 Email: zhen-gz.guo@connect.polyu.hk
